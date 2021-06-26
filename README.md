@@ -17,27 +17,21 @@
 Hi, I'm [codesigirl](https://github.com/codesigirl) and I am 
 
 
-**Languages I know:**  
-<code><img height="20" src="">c</code>
-<code><img height="20" src="">cpp</code>
-<code><img height="20" src="">java</code>
+**Languages:**  
+<img height="20" src="">c</img>
+<img height="20" src="">cpp</img>
+<img height="20" src="">java</img>
 
-**Languages currently Learning**
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
+**Languages currently Learning:**
+<img height="20" src="">
 
-**Tools I know**
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png">html</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png">GitHub</code>
-<code><img height="20" src=""></code>
-
+**Tools:**
+<img height="25" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png">
+<img height="25" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png">
 
 **Tools currently Learning:**
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png">css</code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">js</code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src=""></code>
+<img height="25" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png">
+<img height="25" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 
 - 🌱 I’m currently learning Web Development and Design.
 - 💞️ I’m looking to collaborate on Open Source Projects
