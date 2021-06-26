@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @codesigirl
-- 👀 I’m interested in Web Developent and Designing
-- 🌱 I’m currently learning Web Development and Design.
-- 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: @codesigirl(YouTube, Twitter, GitHub)
-
-
-SKILLS:
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="">
   <img align="left" alt="aa" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -20,7 +12,7 @@ SKILLS:
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=codesigirl)
 <br />
 
-Hi, I'm [codesigirl](https://abhishknads.me/)
+Hi, I'm [codesigirl]()
 
 
 **Languages and Tools:**  
@@ -31,6 +23,10 @@ Hi, I'm [codesigirl](https://abhishknads.me/)
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
 <code><img height="20" src=""></code>
+
+- 🌱 I’m currently learning Web Development and Design.
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: @codesigirl(YouTube, Twitter, GitHub)
 
 
 
