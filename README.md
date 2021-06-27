@@ -20,25 +20,22 @@ Hey there!
 
 
 
-*Languages...*
+*Languages and Tools...*
 <img height="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
 <img height="25" src="https://brandslogos.com/wp-content/uploads/images/c-logo.png">
 <img height="25" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png">
-
-*Learning...*
-<img height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png">
-<img height="25" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png">
-<img height="25" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
-
-*Tools...*
 <img height="25" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/inkscape_icon_132304.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gimp_logo_icon_168179.png">
 <img height="25" src="https://cdn.freebiesupply.com/logos/large/2x/adobe-illustrator-cc-logo-png-transparent.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png">
 
+
 *Learning...*
+<img height="25" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_python_icon_130221.png">
+<img height="25" src="https://www.pngkey.com/png/full/347-3470911_css3-html-css-js-logo-white.png">
+<img height="25" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png">
 <img height="25" src="https://cdn.icon-icons.com/icons2/112/PNG/512/visual_studio_18908.png">
 <!---
